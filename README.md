@@ -1,5 +1,5 @@
 ## About this page
-There is not much that can be publically accessed, yet. However, if you are interested in neural networks, check out my implementation of one for handwritten digit recognition! 
+There is not much that can be publically accessed, yet. However, if you are interested in neural networks, check out my implementation of one for handwritten digit recognition (in the repository "digit_recognition")! 
 
 Feel free to contact me if you have any questions.
 
