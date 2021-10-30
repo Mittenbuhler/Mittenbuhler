@@ -1,4 +1,7 @@
-### Hi there 👋
+## About this page
+There is not much that can be publically accessed, yet. However, if you are interested in neural networks, check out my implementation of one for handwritten digit recognition! 
+
+Feel free to contact me if you have any questions.
 
 <!--
 **Mittenbuhler/Mittenbuhler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
